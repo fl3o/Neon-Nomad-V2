@@ -1,0 +1,6 @@
+{
+  "name": "Neon Nomad",
+  "description": "A minimalist HTML5 Canvas arcade game with responsive fullscreen, virtual joystick support for mobile, and persistent gameplay state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
